@@ -1,0 +1,114 @@
+<VAST xmlns:MM="http://api.mediamind.com/V1/DataContracts" version="2.0">
+<Ad id="21307443">
+<InLine>
+<AdSystem>
+<![CDATA[ MediaMind ]]>
+</AdSystem>
+<AdTitle>
+<![CDATA[ 05.03.17_InMobi_VAST_mobile ]]>
+</AdTitle>
+<Description>
+<![CDATA[ 05.03.17_InMobi_VAST_mobile ]]>
+</Description>
+<Impression id="Impression">
+<![CDATA[
+https://bs.serving-sys.com/Serving?cn=display&c=24&pl=VAST&optOut=0&pos=1589&c=24&ai=45170133&pluid=0&ord=5733905683448464058&dg=9067304&sdg=13672915&ta=-1&sessionid=6947955547649698765&pcp=&vurl=&ebaddid=&ebappname=&ebappid=&ebmblat=12.9472&ebmblong=77.5789
+]]>
+</Impression>
+<Creatives>
+<Creative id="45170133" AdID="45170133" sequence="1">
+<Linear>
+<Duration>00:00:15</Duration>
+<TrackingEvents>
+<Tracking event="creativeView">
+<![CDATA[
+https://bs.serving-sys.com/Serving/adServer.bs?cn=isi&pl=VAST&optOut=0&interactionsStr=45170133%7E%7E0%5ECreativeView.Linear.290086554%7E0%7E0%7E1%7E0%7E0%7E290086555%7E0&pos=1589&ebRandom=5733905683448464058&dg=9067304&ta=-1&sessionid=6947955547649698765
+]]>
+</Tracking>
+<Tracking event="creativeView">
+<![CDATA[
+https://bs.serving-sys.com/Serving/adServer.bs?cn=isi&pl=VAST&optOut=0&interactionsStr=45170133%7E%7E0%5Eadstart%7E0%7E0%7E1%7E0%7E2%7E290086555%7E0&pos=1589&ebRandom=5733905683448464058&dg=9067304&ta=-1&sessionid=6947955547649698765
+]]>
+</Tracking>
+<Tracking event="start">
+<![CDATA[
+https://bs.serving-sys.com/Serving/adServer.bs?cn=isi&pl=VAST&optOut=0&interactionsStr=45170133%7E%7E0%5EebVideoStarted%7E0%7E0%7E1%7E0%7E1%7E290086555%7E0&pos=1589&ebRandom=5733905683448464058&dg=9067304&ta=-1&sessionid=6947955547649698765
+]]>
+</Tracking>
+<Tracking event="firstQuartile">
+<![CDATA[
+https://bs.serving-sys.com/Serving/adServer.bs?cn=isi&pl=VAST&optOut=0&interactionsStr=45170133%7E%7E0%5Eeb25Per_Played%7E0%7E0%7E1%7E0%7E1%7E290086555%7E0&pos=1589&ebRandom=5733905683448464058&dg=9067304&ta=-1&sessionid=6947955547649698765
+]]>
+</Tracking>
+<Tracking event="midpoint">
+<![CDATA[
+https://bs.serving-sys.com/Serving/adServer.bs?cn=isi&pl=VAST&optOut=0&interactionsStr=45170133%7E%7E0%5Eeb50Per_Played%7E0%7E0%7E1%7E0%7E1%7E290086555%7E0&pos=1589&ebRandom=5733905683448464058&dg=9067304&ta=-1&sessionid=6947955547649698765
+]]>
+</Tracking>
+<Tracking event="thirdQuartile">
+<![CDATA[
+https://bs.serving-sys.com/Serving/adServer.bs?cn=isi&pl=VAST&optOut=0&interactionsStr=45170133%7E%7E0%5Eeb75Per_Played%7E0%7E0%7E1%7E0%7E1%7E290086555%7E0&pos=1589&ebRandom=5733905683448464058&dg=9067304&ta=-1&sessionid=6947955547649698765
+]]>
+</Tracking>
+<Tracking event="complete">
+<![CDATA[
+https://bs.serving-sys.com/Serving/adServer.bs?cn=isi&pl=VAST&optOut=0&interactionsStr=45170133%7E%7E0%5EebVideoFullPlay%7E0%7E0%7E1%7E0%7E1%7E290086555%7E0&pos=1589&ebRandom=5733905683448464058&dg=9067304&ta=-1&sessionid=6947955547649698765
+]]>
+</Tracking>
+<Tracking event="mute">
+<![CDATA[
+https://bs.serving-sys.com/Serving/adServer.bs?cn=isi&pl=VAST&optOut=0&interactionsStr=45170133%7E%7E0%5EebVideoMute%7E0%7E0%7E1%7E1%7E1%7E290086555%7E0&pos=1589&ebRandom=5733905683448464058&dg=9067304&ta=-1&sessionid=6947955547649698765
+]]>
+</Tracking>
+<Tracking event="unmute">
+<![CDATA[
+https://bs.serving-sys.com/Serving/adServer.bs?cn=isi&pl=VAST&optOut=0&interactionsStr=45170133%7E%7E0%5EebVideoUnmute%7E0%7E0%7E1%7E1%7E1%7E290086555%7E0&pos=1589&ebRandom=5733905683448464058&dg=9067304&ta=-1&sessionid=6947955547649698765
+]]>
+</Tracking>
+<Tracking event="pause">
+<![CDATA[
+https://bs.serving-sys.com/Serving/adServer.bs?cn=isi&pl=VAST&optOut=0&interactionsStr=45170133%7E%7E0%5EebVideoPause%7E0%7E0%7E1%7E1%7E1%7E290086555%7E0&pos=1589&ebRandom=5733905683448464058&dg=9067304&ta=-1&sessionid=6947955547649698765
+]]>
+</Tracking>
+<Tracking event="fullscreen">
+<![CDATA[
+https://bs.serving-sys.com/Serving/adServer.bs?cn=isi&pl=VAST&optOut=0&interactionsStr=45170133%7E%7E0%5EebFSStart%7E0%7E0%7E1%7E1%7E1%7E290086555%7E0&pos=1589&ebRandom=5733905683448464058&dg=9067304&ta=-1&sessionid=6947955547649698765
+]]>
+</Tracking>
+</TrackingEvents>
+<VideoClicks>
+<ClickThrough>
+<![CDATA[
+https://bs.serving-sys.com/Serving/adServer.bs?cn=isi&pl=VAST&optOut=0&interactionsStr=45170133%7E%7E0%5EClick.Linear.290086554%7E0%7E1%7E1%7E0%7E0%7E290086555%7E0&pos=1589&ebRandom=5733905683448464058&dg=9067304&ta=-1&sessionid=6947955547649698765&rtu=$$https://www.sizmek.com$$
+]]>
+</ClickThrough>
+</VideoClicks>
+<MediaFiles>
+<MediaFile id="290086555" height="320" width="568" bitrate="690" type="video/mp4" delivery="progressive" maintainAspectRatio="true" scalable="true">
+<![CDATA[
+https://secure-ds.serving-sys.com/BurstingRes/Site-67593/Type-16/667ca84e-9e96-4df8-bae6-3e1198af7f48.mp4
+]]>
+</MediaFile>
+<MediaFile id="290086556" height="768" width="1024" bitrate="1116" type="video/mp4" delivery="progressive" maintainAspectRatio="true" scalable="true">
+<![CDATA[
+https://secure-ds.serving-sys.com/BurstingRes/Site-67593/Type-16/cace9eaa-ea80-4be2-8c9a-e21aacf7b61d.mp4
+]]>
+</MediaFile>
+</MediaFiles>
+</Linear>
+</Creative>
+<Creative id="45170133" AdID="45170133" sequence="1">
+<CompanionAds>
+<Companion width="640" height="360" id="45170250">
+<IFrameResource>
+<![CDATA[
+https://secure-ds.serving-sys.com/BurstingRes/Site-67593/VASTIFrameResources/45170133_45170250_1d3f4bbf-cdcc-42d3-bd68-abf1b1b1dae9_iframe_tag.html
+]]>
+</IFrameResource>
+</Companion>
+</CompanionAds>
+</Creative>
+</Creatives>
+</InLine>
+</Ad>
+</VAST>
