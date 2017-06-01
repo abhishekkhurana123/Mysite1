@@ -1,113 +1,54 @@
-<VAST xmlns:MM="http://api.mediamind.com/V1/DataContracts" version="2.0">
-<Ad id="21307443">
-<InLine>
-<AdSystem>
-<![CDATA[ MediaMind ]]>
-</AdSystem>
-<AdTitle>
-<![CDATA[ 05.03.17_InMobi_VAST_mobile ]]>
-</AdTitle>
-<Description>
-<![CDATA[ 05.03.17_InMobi_VAST_mobile ]]>
-</Description>
-<Impression id="Impression">
-<![CDATA[
-https://bs.serving-sys.com/Serving?cn=display&c=24&pl=VAST&optOut=0&pos=1589&c=24&ai=45170133&pluid=0&ord=5733905683448464058&dg=9067304&sdg=13672915&ta=-1&sessionid=6947955547649698765&pcp=&vurl=&ebaddid=&ebappname=&ebappid=&ebmblat=12.9472&ebmblong=77.5789
-]]>
-</Impression>
-<Creatives>
-<Creative id="45170133" AdID="45170133" sequence="1">
-<Linear>
-<Duration>00:00:15</Duration>
-<TrackingEvents>
-<Tracking event="creativeView">
-<![CDATA[
-https://bs.serving-sys.com/Serving/adServer.bs?cn=isi&pl=VAST&optOut=0&interactionsStr=45170133%7E%7E0%5ECreativeView.Linear.290086554%7E0%7E0%7E1%7E0%7E0%7E290086555%7E0&pos=1589&ebRandom=5733905683448464058&dg=9067304&ta=-1&sessionid=6947955547649698765
-]]>
-</Tracking>
-<Tracking event="creativeView">
-<![CDATA[
-https://bs.serving-sys.com/Serving/adServer.bs?cn=isi&pl=VAST&optOut=0&interactionsStr=45170133%7E%7E0%5Eadstart%7E0%7E0%7E1%7E0%7E2%7E290086555%7E0&pos=1589&ebRandom=5733905683448464058&dg=9067304&ta=-1&sessionid=6947955547649698765
-]]>
-</Tracking>
-<Tracking event="start">
-<![CDATA[
-https://bs.serving-sys.com/Serving/adServer.bs?cn=isi&pl=VAST&optOut=0&interactionsStr=45170133%7E%7E0%5EebVideoStarted%7E0%7E0%7E1%7E0%7E1%7E290086555%7E0&pos=1589&ebRandom=5733905683448464058&dg=9067304&ta=-1&sessionid=6947955547649698765
-]]>
-</Tracking>
-<Tracking event="firstQuartile">
-<![CDATA[
-https://bs.serving-sys.com/Serving/adServer.bs?cn=isi&pl=VAST&optOut=0&interactionsStr=45170133%7E%7E0%5Eeb25Per_Played%7E0%7E0%7E1%7E0%7E1%7E290086555%7E0&pos=1589&ebRandom=5733905683448464058&dg=9067304&ta=-1&sessionid=6947955547649698765
-]]>
-</Tracking>
-<Tracking event="midpoint">
-<![CDATA[
-https://bs.serving-sys.com/Serving/adServer.bs?cn=isi&pl=VAST&optOut=0&interactionsStr=45170133%7E%7E0%5Eeb50Per_Played%7E0%7E0%7E1%7E0%7E1%7E290086555%7E0&pos=1589&ebRandom=5733905683448464058&dg=9067304&ta=-1&sessionid=6947955547649698765
-]]>
-</Tracking>
-<Tracking event="thirdQuartile">
-<![CDATA[
-https://bs.serving-sys.com/Serving/adServer.bs?cn=isi&pl=VAST&optOut=0&interactionsStr=45170133%7E%7E0%5Eeb75Per_Played%7E0%7E0%7E1%7E0%7E1%7E290086555%7E0&pos=1589&ebRandom=5733905683448464058&dg=9067304&ta=-1&sessionid=6947955547649698765
-]]>
-</Tracking>
-<Tracking event="complete">
-<![CDATA[
-https://bs.serving-sys.com/Serving/adServer.bs?cn=isi&pl=VAST&optOut=0&interactionsStr=45170133%7E%7E0%5EebVideoFullPlay%7E0%7E0%7E1%7E0%7E1%7E290086555%7E0&pos=1589&ebRandom=5733905683448464058&dg=9067304&ta=-1&sessionid=6947955547649698765
-]]>
-</Tracking>
-<Tracking event="mute">
-<![CDATA[
-https://bs.serving-sys.com/Serving/adServer.bs?cn=isi&pl=VAST&optOut=0&interactionsStr=45170133%7E%7E0%5EebVideoMute%7E0%7E0%7E1%7E1%7E1%7E290086555%7E0&pos=1589&ebRandom=5733905683448464058&dg=9067304&ta=-1&sessionid=6947955547649698765
-]]>
-</Tracking>
-<Tracking event="unmute">
-<![CDATA[
-https://bs.serving-sys.com/Serving/adServer.bs?cn=isi&pl=VAST&optOut=0&interactionsStr=45170133%7E%7E0%5EebVideoUnmute%7E0%7E0%7E1%7E1%7E1%7E290086555%7E0&pos=1589&ebRandom=5733905683448464058&dg=9067304&ta=-1&sessionid=6947955547649698765
-]]>
-</Tracking>
-<Tracking event="pause">
-<![CDATA[
-https://bs.serving-sys.com/Serving/adServer.bs?cn=isi&pl=VAST&optOut=0&interactionsStr=45170133%7E%7E0%5EebVideoPause%7E0%7E0%7E1%7E1%7E1%7E290086555%7E0&pos=1589&ebRandom=5733905683448464058&dg=9067304&ta=-1&sessionid=6947955547649698765
-]]>
-</Tracking>
-<Tracking event="fullscreen">
-<![CDATA[
-https://bs.serving-sys.com/Serving/adServer.bs?cn=isi&pl=VAST&optOut=0&interactionsStr=45170133%7E%7E0%5EebFSStart%7E0%7E0%7E1%7E1%7E1%7E290086555%7E0&pos=1589&ebRandom=5733905683448464058&dg=9067304&ta=-1&sessionid=6947955547649698765
-]]>
-</Tracking>
-</TrackingEvents>
-<VideoClicks>
-<ClickThrough>
-<![CDATA[
-https://bs.serving-sys.com/Serving/adServer.bs?cn=isi&pl=VAST&optOut=0&interactionsStr=45170133%7E%7E0%5EClick.Linear.290086554%7E0%7E1%7E1%7E0%7E0%7E290086555%7E0&pos=1589&ebRandom=5733905683448464058&dg=9067304&ta=-1&sessionid=6947955547649698765&rtu=$$https://www.sizmek.com$$
-]]>
-</ClickThrough>
-</VideoClicks>
-<MediaFiles>
-<MediaFile id="290086555" height="320" width="568" bitrate="690" type="video/mp4" delivery="progressive" maintainAspectRatio="true" scalable="true">
-<![CDATA[
-https://secure-ds.serving-sys.com/BurstingRes/Site-67593/Type-16/667ca84e-9e96-4df8-bae6-3e1198af7f48.mp4
-]]>
-</MediaFile>
-<MediaFile id="290086556" height="768" width="1024" bitrate="1116" type="video/mp4" delivery="progressive" maintainAspectRatio="true" scalable="true">
-<![CDATA[
-https://secure-ds.serving-sys.com/BurstingRes/Site-67593/Type-16/cace9eaa-ea80-4be2-8c9a-e21aacf7b61d.mp4
-]]>
-</MediaFile>
-</MediaFiles>
-</Linear>
-</Creative>
-<Creative id="45170133" AdID="45170133" sequence="1">
-<CompanionAds>
-<Companion width="640" height="360" id="45170250">
-<IFrameResource>
-<![CDATA[
-https://abhishekkhurana123.github.io/iframe2.html]]>
-</IFrameResource>
-</Companion>
-</CompanionAds>
-</Creative>
-</Creatives>
-</InLine>
-</Ad>
+<?xml version="1.0" encoding="UTF-8"?>
+<VAST version="2.0">
+   <Ad id="preroll-1">
+      <InLine>
+         <AdSystem>2.0</AdSystem>
+         <AdTitle>Cartoon Network</AdTitle>
+         <Error><![CDATA[http://stats.aws.rubiconproject.com/stats/video/error/0905225d-7325-4394-80cc-c9c66797dc0e/11726/125902/595904/202/2249/41328759/http/beacon-us-west.rubiconproject.com/77BB572233338F7250F4D570C5EEB36838A793403AA952549D0607942E8A4D972A32F518AD72E3E02AE671EAA2BBC35072551AF27867473A9A613A71313D9018CC98E5385986980E52DB3D18197F76A0CE073CDDA0F3A7C835C25144524E87A00D2706B31D14943B71FDE702F86E14E2F5E5D7496CEF93B87C0C7C78C795E46C6D117DC8A83181F9A987C36701AB82DC4C9070CDC2F8F626DB36492CD3B0E6355475FBB7F15E217A/[ERRORCODE]]]></Error>
+         <Error><![CDATA[http://stats.tubemogul.com/stats/1/playererror?sessId=cb51ebbc55cfa63dc80d118386ab821b33a5146a.1&amp;paId=ECQQtEM45lRpv9jZUlXD&amp;service=adserver&amp;errorcode=[ERRORCODE]]]></Error>
+         <Impression><![CDATA[http://beacon-us-west.rubiconproject.com/beacon/v/0905225d-7325-4394-80cc-c9c66797dc0e?accountId=11726&amp;siteId=125902&amp;zoneId=595904&amp;e=CBADCB97774921C622CBF5DE7DA5AA83ACB6F314787A68591F8A854329D81BBDF66D5B237A5B27E58820D014035B084E7C41C7C5B6CAC9AFE41D40D0C1AFC47C74586022539747C1A64787DC29F0AFE5333AE4615F6FA803C1584041AF67942595E0E07847E5CAF75B8C0C50CE4ED5ED1F6B49A5B338C53C3A2DBFE3DB61921C77975EA1602A9CB49BC61D88CE730C20E8F9BAA0B0354EB11D115F8F41B0A6503321A4BB317E8D11]]></Impression>
+         <Impression><![CDATA[http://stats.tubemogul.com/stats/1/imp?sessId=cb51ebbc55cfa63dc80d118386ab821b33a5146a.1&amp;paId=ECQQtEM45lRpv9jZUlXD&amp;eaId=1ijebf&amp;eaName=Showroom+TYZJ3089OOOH&amp;dur=15&amp;date=&amp;auth=&amp;psId=q6gSRjVBceXY4n5kme9T&amp;price=0F1C64D6805B51F9&amp;bi=B07PS7xX9ik78IYvcYvkGcHHr5BjIg4nK4of_e6aCfRotUrv95SA8gVb2eG0ckDuL38AFgxWLKokBj5uPAbY6ASPtHSkKHXKILb3t6d21eeH4Pkb2GQVzeosm6NN22AtmFwlpAPRTrKRGTV3Lt6iKmrXobKqNh5mjsoewT7vuJwfzvJVV75NcnKJckdKlagenaO&amp;pai=1710642726&amp;cak=rQMoRhMfQ66RWBTXBZ1a&amp;eec=1&amp;eew=30&amp;inc=view&amp;did=120b5f23-b2c3-49c1-b148-73226edc5494&amp;didtype=ADVERTISING_ID&amp;vinst=f]]></Impression>
+         <Impression><![CDATA[https://i.l.inmobicdn.net/studio/asset/ce29fe1a-0a74-4167-82c8-cc115c8263e5.gif]]></Impression>
+         <Creatives>
+            <Creative>
+               <Linear>
+                  <Duration>00:00:18</Duration>
+                  <TrackingEvents>
+                     <Tracking event="creativeView"><![CDATA[http://beacon-us-west.rubiconproject.com/beacon/v/0905225d-7325-4394-80cc-c9c66797dc0e?accountId=11726&amp;siteId=125902&amp;zoneId=595904&amp;e=498E45A22EEBCA461A1F8CEA8CCD1F2450F4D570C5EEB36838A793403AA952549D0607942E8A4D972A32F518AD72E3E02AE671EAA2BBC35072551AF27867473A9A613A71313D9018CC98E5385986980E52DB3D18197F76A0CE073CDDA0F3A7C835C25144524E87A00D2706B31D14943B71FDE702F86E14E2F5E5D7496CEF93B87C0C7C78C795E46C6D117DC8A83181F9A987C36701AB82DC4C9070CDC2F8F626DB36492CD3B0E6355475FBB7F15E217A]]></Tracking>
+                     <Tracking event="start"><![CDATA[http://beacon-us-west.rubiconproject.com/beacon/v/0905225d-7325-4394-80cc-c9c66797dc0e?accountId=11726&amp;siteId=125902&amp;zoneId=595904&amp;e=510BD2D33306329650F4D570C5EEB36838A793403AA952549D0607942E8A4D972A32F518AD72E3E02AE671EAA2BBC35072551AF27867473A9A613A71313D9018CC98E5385986980E52DB3D18197F76A0CE073CDDA0F3A7C835C25144524E87A00D2706B31D14943B71FDE702F86E14E2F5E5D7496CEF93B87C0C7C78C795E46C6D117DC8A83181F9A987C36701AB82DC4C9070CDC2F8F626DB36492CD3B0E6355475FBB7F15E217A]]></Tracking>
+                     <Tracking event="firstQuartile"><![CDATA[http://beacon-us-west.rubiconproject.com/beacon/v/0905225d-7325-4394-80cc-c9c66797dc0e?accountId=11726&amp;siteId=125902&amp;zoneId=595904&amp;e=C1A0864160A107F4ED8FFF368DC6B2165E8CCBF0B3D3069694FE3729E3085B311AB81C4A670F081CE698798B4F76253E9C8E638D65AB8C7ECD0F88BB6E162854B0ED1407DCD7A6F13FE4F3B2099C75450ED6931128D468E289D97171EC6B147251152A04C9B60F3BE8AA5A9394E1A9FAF984B0818770CDA2AFB1E72D895E845C967A53E17471A33666379A02946E03B23DCB89FFC2403BFACA07F88ABA9ADB20D54B2B95BEA47CC367B075A8B3FAC811]]></Tracking>
+                     <Tracking event="firstQuartile"><![CDATA[http://stats.tubemogul.com/stats/1/pct25?sessId=cb51ebbc55cfa63dc80d118386ab821b33a5146a.1&amp;paId=ECQQtEM45lRpv9jZUlXD&amp;eaId=1ijebf&amp;eaName=Showroom+TYZJ3089OOOH&amp;psId=q6gSRjVBceXY4n5kme9T&amp;date=&amp;dur=15&amp;auth=&amp;price=0F1C64D6805B51F9&amp;bi=B07PS7xX9ik78IYvcYvkGcHHr5BjIg4nK4of_e6aCfRotUrv95SA8gVb2eG0ckDuL38AFgxWLKokBj5uPAbY6ASPtHSkKHXKILb3t6d21eeH4Pkb2GQVzeosm6NN22AtmFwlpAPRTrKRGTV3Lt6iKmrXobKqNh5mjsoewT7vuJwfzvJVV75NcnKJckdKlagenaO&amp;did=120b5f23-b2c3-49c1-b148-73226edc5494&amp;didtype=ADVERTISING_ID]]></Tracking>
+                     <Tracking event="midpoint"><![CDATA[http://beacon-us-west.rubiconproject.com/beacon/v/0905225d-7325-4394-80cc-c9c66797dc0e?accountId=11726&amp;siteId=125902&amp;zoneId=595904&amp;e=2D6EF7C7B3D881A9C58508F0F8258CE27AE5564421AFA2D95F994AB5149FF176180A03035B5D5F9139F659087A80AEC1BE753628DEF6EE105538D9F84097CFCB025894B8F20911228DB24264B0B723CC16EFE9404F7AE6634B52835876334623EE2856B649E3A17979E9728D0907B1F54D65A72C2EF0496E384400532B1BCBE6FBF5B37CB74720CA84822561D1D1CC0932885FF81058D0DD78B21F28E74719C8A1BD0299833FA68D]]></Tracking>
+                     <Tracking event="midpoint"><![CDATA[http://stats.tubemogul.com/stats/1/pct50?sessId=cb51ebbc55cfa63dc80d118386ab821b33a5146a.1&amp;paId=ECQQtEM45lRpv9jZUlXD&amp;eaId=1ijebf&amp;eaName=Showroom+TYZJ3089OOOH&amp;psId=q6gSRjVBceXY4n5kme9T&amp;date=&amp;dur=15&amp;auth=&amp;price=0F1C64D6805B51F9&amp;bi=B07PS7xX9ik78IYvcYvkGcHHr5BjIg4nK4of_e6aCfRotUrv95SA8gVb2eG0ckDuL38AFgxWLKokBj5uPAbY6ASPtHSkKHXKILb3t6d21eeH4Pkb2GQVzeosm6NN22AtmFwlpAPRTrKRGTV3Lt6iKmrXobKqNh5mjsoewT7vuJwfzvJVV75NcnKJckdKlagenaO&amp;did=120b5f23-b2c3-49c1-b148-73226edc5494&amp;didtype=ADVERTISING_ID]]></Tracking>
+                     <Tracking event="thirdQuartile"><![CDATA[http://beacon-us-west.rubiconproject.com/beacon/v/0905225d-7325-4394-80cc-c9c66797dc0e?accountId=11726&amp;siteId=125902&amp;zoneId=595904&amp;e=3ADD8F99CD221680ED8FFF368DC6B2165E8CCBF0B3D3069694FE3729E3085B311AB81C4A670F081CE698798B4F76253E9C8E638D65AB8C7ECD0F88BB6E162854B0ED1407DCD7A6F13FE4F3B2099C75450ED6931128D468E289D97171EC6B147251152A04C9B60F3BE8AA5A9394E1A9FAF984B0818770CDA2AFB1E72D895E845C967A53E17471A33666379A02946E03B23DCB89FFC2403BFACA07F88ABA9ADB20D54B2B95BEA47CC367B075A8B3FAC811]]></Tracking>
+                     <Tracking event="thirdQuartile"><![CDATA[http://stats.tubemogul.com/stats/1/pct75?sessId=cb51ebbc55cfa63dc80d118386ab821b33a5146a.1&amp;paId=ECQQtEM45lRpv9jZUlXD&amp;eaId=1ijebf&amp;eaName=Showroom+TYZJ3089OOOH&amp;psId=q6gSRjVBceXY4n5kme9T&amp;date=&amp;dur=15&amp;auth=&amp;price=0F1C64D6805B51F9&amp;bi=B07PS7xX9ik78IYvcYvkGcHHr5BjIg4nK4of_e6aCfRotUrv95SA8gVb2eG0ckDuL38AFgxWLKokBj5uPAbY6ASPtHSkKHXKILb3t6d21eeH4Pkb2GQVzeosm6NN22AtmFwlpAPRTrKRGTV3Lt6iKmrXobKqNh5mjsoewT7vuJwfzvJVV75NcnKJckdKlagenaO&amp;did=120b5f23-b2c3-49c1-b148-73226edc5494&amp;didtype=ADVERTISING_ID]]></Tracking>
+                     <Tracking event="complete"><![CDATA[http://beacon-us-west.rubiconproject.com/beacon/v/0905225d-7325-4394-80cc-c9c66797dc0e?accountId=11726&amp;siteId=125902&amp;zoneId=595904&amp;e=EF05D8E5B84FFBB0C58508F0F8258CE27AE5564421AFA2D95F994AB5149FF176180A03035B5D5F9139F659087A80AEC1BE753628DEF6EE105538D9F84097CFCB025894B8F20911228DB24264B0B723CC16EFE9404F7AE6634B52835876334623EE2856B649E3A17979E9728D0907B1F54D65A72C2EF0496E384400532B1BCBE6FBF5B37CB74720CA84822561D1D1CC0932885FF81058D0DD78B21F28E74719C8A1BD0299833FA68D]]></Tracking>
+                     <Tracking event="complete"><![CDATA[http://stats.tubemogul.com/stats/1/pct100?sessId=cb51ebbc55cfa63dc80d118386ab821b33a5146a.1&amp;paId=ECQQtEM45lRpv9jZUlXD&amp;eaId=1ijebf&amp;eaName=Showroom+TYZJ3089OOOH&amp;psId=q6gSRjVBceXY4n5kme9T&amp;date=&amp;dur=15&amp;auth=&amp;price=0F1C64D6805B51F9&amp;bi=B07PS7xX9ik78IYvcYvkGcHHr5BjIg4nK4of_e6aCfRotUrv95SA8gVb2eG0ckDuL38AFgxWLKokBj5uPAbY6ASPtHSkKHXKILb3t6d21eeH4Pkb2GQVzeosm6NN22AtmFwlpAPRTrKRGTV3Lt6iKmrXobKqNh5mjsoewT7vuJwfzvJVV75NcnKJckdKlagenaO&amp;did=120b5f23-b2c3-49c1-b148-73226edc5494&amp;didtype=ADVERTISING_ID]]></Tracking>
+                     <Tracking event="mute"><![CDATA[http://beacon-us-west.rubiconproject.com/beacon/v/0905225d-7325-4394-80cc-c9c66797dc0e?accountId=11726&amp;siteId=125902&amp;zoneId=595904&amp;e=C3B4834558DB7FF8BEF35A8819071295F6821A20DAC95248E45B67215266E46ED60273752A12FE6C0461410051F3F0C57AA1A1B7DABEE6C13B67D985782027993B22DDA1BF75767D4C8CDA16A453BACBAB395BC895ADB7678D5960C872940854F69FDC6E1D961AE0A7D00B64AAD30BC838A140507FFFD50D2BBAE3D7C949A856D50D7081E0AF2648D75053C89F4D13189F68FB217BD3BD64FC3BE8685EBA97EB]]></Tracking>
+                     <Tracking event="unmute"><![CDATA[http://beacon-us-west.rubiconproject.com/beacon/v/0905225d-7325-4394-80cc-c9c66797dc0e?accountId=11726&amp;siteId=125902&amp;zoneId=595904&amp;e=A977D2D78991053D5E8CCBF0B3D3069694FE3729E3085B311AB81C4A670F081CE698798B4F76253E9C8E638D65AB8C7ECD0F88BB6E162854B0ED1407DCD7A6F13FE4F3B2099C75450ED6931128D468E289D97171EC6B147251152A04C9B60F3BE8AA5A9394E1A9FAF984B0818770CDA2AFB1E72D895E845C967A53E17471A33666379A02946E03B23DCB89FFC2403BFACA07F88ABA9ADB20D54B2B95BEA47CC367B075A8B3FAC811]]></Tracking>
+                     <Tracking event="pause"><![CDATA[http://beacon-us-west.rubiconproject.com/beacon/v/0905225d-7325-4394-80cc-c9c66797dc0e?accountId=11726&amp;siteId=125902&amp;zoneId=595904&amp;e=9C5102DC5BF20C9D50F4D570C5EEB36838A793403AA952549D0607942E8A4D972A32F518AD72E3E02AE671EAA2BBC35072551AF27867473A9A613A71313D9018CC98E5385986980E52DB3D18197F76A0CE073CDDA0F3A7C835C25144524E87A00D2706B31D14943B71FDE702F86E14E2F5E5D7496CEF93B87C0C7C78C795E46C6D117DC8A83181F9A987C36701AB82DC4C9070CDC2F8F626DB36492CD3B0E6355475FBB7F15E217A]]></Tracking>
+                     <Tracking event="rewind"><![CDATA[http://beacon-us-west.rubiconproject.com/beacon/v/0905225d-7325-4394-80cc-c9c66797dc0e?accountId=11726&amp;siteId=125902&amp;zoneId=595904&amp;e=131CEF798C63F3445E8CCBF0B3D3069694FE3729E3085B311AB81C4A670F081CE698798B4F76253E9C8E638D65AB8C7ECD0F88BB6E162854B0ED1407DCD7A6F13FE4F3B2099C75450ED6931128D468E289D97171EC6B147251152A04C9B60F3BE8AA5A9394E1A9FAF984B0818770CDA2AFB1E72D895E845C967A53E17471A33666379A02946E03B23DCB89FFC2403BFACA07F88ABA9ADB20D54B2B95BEA47CC367B075A8B3FAC811]]></Tracking>
+                     <Tracking event="resume"><![CDATA[http://beacon-us-west.rubiconproject.com/beacon/v/0905225d-7325-4394-80cc-c9c66797dc0e?accountId=11726&amp;siteId=125902&amp;zoneId=595904&amp;e=C3A1F3510E10952D5E8CCBF0B3D3069694FE3729E3085B311AB81C4A670F081CE698798B4F76253E9C8E638D65AB8C7ECD0F88BB6E162854B0ED1407DCD7A6F13FE4F3B2099C75450ED6931128D468E289D97171EC6B147251152A04C9B60F3BE8AA5A9394E1A9FAF984B0818770CDA2AFB1E72D895E845C967A53E17471A33666379A02946E03B23DCB89FFC2403BFACA07F88ABA9ADB20D54B2B95BEA47CC367B075A8B3FAC811]]></Tracking>
+                     <Tracking event="fullscreen"><![CDATA[http://beacon-us-west.rubiconproject.com/beacon/v/0905225d-7325-4394-80cc-c9c66797dc0e?accountId=11726&amp;siteId=125902&amp;zoneId=595904&amp;e=FB78FA73384AC4F63BA017D67E56D903ACB6F314787A68591F8A854329D81BBDF66D5B237A5B27E58820D014035B084E7C41C7C5B6CAC9AFE41D40D0C1AFC47C74586022539747C1A64787DC29F0AFE5333AE4615F6FA803C1584041AF67942595E0E07847E5CAF75B8C0C50CE4ED5ED1F6B49A5B338C53C3A2DBFE3DB61921C77975EA1602A9CB49BC61D88CE730C20E8F9BAA0B0354EB11D115F8F41B0A6503321A4BB317E8D11]]></Tracking>
+                     <Tracking event="expand"><![CDATA[http://beacon-us-west.rubiconproject.com/beacon/v/0905225d-7325-4394-80cc-c9c66797dc0e?accountId=11726&amp;siteId=125902&amp;zoneId=595904&amp;e=4DD02692DBC049405E8CCBF0B3D3069694FE3729E3085B311AB81C4A670F081CE698798B4F76253E9C8E638D65AB8C7ECD0F88BB6E162854B0ED1407DCD7A6F13FE4F3B2099C75450ED6931128D468E289D97171EC6B147251152A04C9B60F3BE8AA5A9394E1A9FAF984B0818770CDA2AFB1E72D895E845C967A53E17471A33666379A02946E03B23DCB89FFC2403BFACA07F88ABA9ADB20D54B2B95BEA47CC367B075A8B3FAC811]]></Tracking>
+                     <Tracking event="collapse"><![CDATA[http://beacon-us-west.rubiconproject.com/beacon/v/0905225d-7325-4394-80cc-c9c66797dc0e?accountId=11726&amp;siteId=125902&amp;zoneId=595904&amp;e=C140A0DE32AE5E44C58508F0F8258CE27AE5564421AFA2D95F994AB5149FF176180A03035B5D5F9139F659087A80AEC1BE753628DEF6EE105538D9F84097CFCB025894B8F20911228DB24264B0B723CC16EFE9404F7AE6634B52835876334623EE2856B649E3A17979E9728D0907B1F54D65A72C2EF0496E384400532B1BCBE6FBF5B37CB74720CA84822561D1D1CC0932885FF81058D0DD78B21F28E74719C8A1BD0299833FA68D]]></Tracking>
+                     <Tracking event="acceptInvitation"><![CDATA[http://beacon-us-west.rubiconproject.com/beacon/v/0905225d-7325-4394-80cc-c9c66797dc0e?accountId=11726&amp;siteId=125902&amp;zoneId=595904&amp;e=CB7F724D5631BC92B5E2858846470B46B8AA2500F17F2097FE589501A632E0783BC13066DA17A088E6F866ACDD60242821AFA1C6A657FC97BBB2447FA8D656AA52B903124FDAE380FA68FF0A56A59BEE4B7D485179DBAEDE99BDDFEBC55FD3EA10FD06483F0A14DDAC6072E46F0AF339696DE2A08761A90F85D807E3C77812CD4E24759D32FBDE9363C82F7BA3A0488666FBE9754CD3DB2CBA49B634160CDA11B0859BA34028B03C766F61FD5BD50738]]></Tracking>
+                     <Tracking event="close"><![CDATA[http://beacon-us-west.rubiconproject.com/beacon/v/0905225d-7325-4394-80cc-c9c66797dc0e?accountId=11726&amp;siteId=125902&amp;zoneId=595904&amp;e=D4BAD868A0419B1150F4D570C5EEB36838A793403AA952549D0607942E8A4D972A32F518AD72E3E02AE671EAA2BBC35072551AF27867473A9A613A71313D9018CC98E5385986980E52DB3D18197F76A0CE073CDDA0F3A7C835C25144524E87A00D2706B31D14943B71FDE702F86E14E2F5E5D7496CEF93B87C0C7C78C795E46C6D117DC8A83181F9A987C36701AB82DC4C9070CDC2F8F626DB36492CD3B0E6355475FBB7F15E217A]]></Tracking>
+                  </TrackingEvents>
+                  <AdParameters><![CDATA[{"ad":{"images":[{"assetId":1980454675,"url":"https://i.l.inmobicdn.net/helix/asset/default/image/480c38908e6247719f12dad9d4d22b5e/original.png","width":462,"height":462,"size":202137},{"assetId":501946126,"url":"https://i.l.inmobicdn.net/helix/asset/default/image/6b7148f034de49df8fb27c9b8639219b/original.png","width":462,"height":462,"size":153970},{"assetId":2130940548,"url":"https://i.l.inmobicdn.net/helix/asset/default/image/c75816d0583742b68ffc523eb3ba6823/original.png","width":462,"height":462,"size":134373}],"endcards":[{"assetId":350086803,"url":"https://i.l.inmobicdn.net/helix/asset/default/image/3b5619c43c0743a3bf30363d1d8fdf8f/original.png","width":640,"height":1136,"size":15944}],"cta":{"image":{"assetId":82793747,"url":"https://i.l.inmobicdn.net/helix/system/asset/learn_more_cta_en.png","width":566,"height":84,"size":5901}},"helixCreativePublishIncId":61,"helixId":"deb219d1608542a087fae87d5de72798","brandAssets":{"image":{"assetId":46394786,"url":"https://i.l.inmobicdn.net/helix/asset/default/image/0e6fac39e518477fa616ec09a891bbdf/original.png","width":1,"height":1,"size":95}},"videos":[{"duration":18,"original":{"assetId":475216300,"url":"https://i.l.inmobicdn.net/helix/asset/default/video/5a0f1048542f479295907b47f9c2e91d/original.mp4","width":1920,"height":1080,"size":18763705},"transcoded":[{"assetId":818085360,"url":"https://i.l.inmobicdn.net/helix/asset/default/5a0f1048542f479295907b47f9c2e91d/transcoded/video.480.mp4","width":854,"height":480,"size":2258502},{"assetId":126676623,"url":"https://i.l.inmobicdn.net/helix/asset/default/5a0f1048542f479295907b47f9c2e91d/transcoded/video.360.mp4","width":640,"height":360,"size":1732196},{"assetId":986145799,"url":"https://i.l.inmobicdn.net/helix/asset/default/5a0f1048542f479295907b47f9c2e91d/transcoded/video.720.mp4","width":1280,"height":720,"size":2311439}]}]},"supplyTags":{"rewarded":true,"non_rewarded":true},"helixTags":{"Video20HelixSinglePageRewarded":true,"Video20HelixSinglePage":true},"orientation":{"portrait":true}}]]></AdParameters>
+                  <VideoClicks>
+                     <ClickThrough><![CDATA[http://www.cartoonnetwork.se/gumball]]></ClickThrough>
+                     <ClickTracking><![CDATA[http://beacon-us-west.rubiconproject.com/beacon/v/0905225d-7325-4394-80cc-c9c66797dc0e?accountId=11726&amp;siteId=125902&amp;zoneId=595904&amp;e=F5DD5969E4FD2D4750F4D570C5EEB36838A793403AA952549D0607942E8A4D972A32F518AD72E3E02AE671EAA2BBC35072551AF27867473A9A613A71313D9018CC98E5385986980E52DB3D18197F76A0CE073CDDA0F3A7C835C25144524E87A00D2706B31D14943B71FDE702F86E14E2F5E5D7496CEF93B87C0C7C78C795E46C6D117DC8A83181F9A987C36701AB82DC4C9070CDC2F8F626DB36492CD3B0E6355475FBB7F15E217A]]></ClickTracking>
+                     <ClickTracking><![CDATA[http://stats.tubemogul.com/stats/1/ct?sessId=cb51ebbc55cfa63dc80d118386ab821b33a5146a.1&amp;paId=ECQQtEM45lRpv9jZUlXD&amp;psId=q6gSRjVBceXY4n5kme9T&amp;pvId=nLKbFQLXK37JVUvAJ6JT&amp;sId=0&amp;dur=15&amp;eaId=1ijebf&amp;eaName=Showroom+TYZJ3089OOOH%26pai%3D1710642726%26cak%3DrQMoRhMfQ66RWBTXBZ1a%26eec%3D3%26eew%3D30&amp;redir=&amp;date=&amp;auth=&amp;price=0F1C64D6805B51F9&amp;bi=B07PS7xX9ik78IYvcYvkGcHHr5BjIg4nK4of_e6aCfRotUrv95SA8gVb2eG0ckDuL38AFgxWLKokBj5uPAbY6ASPtHSkKHXKILb3t6d21eeH4Pkb2GQVzeosm6NN22AtmFwlpAPRTrKRGTV3Lt6iKmrXobKqNh5mjsoewT7vuJwfzvJVV75NcnKJckdKlagenaO&amp;did=120b5f23-b2c3-49c1-b148-73226edc5494&amp;didtype=ADVERTISING_ID]]></ClickTracking>
+                  </VideoClicks>
+                  <MediaFiles>
+                     <MediaFile delivery="progressive" type="video/mp4" bitrate="1354" width="1280" height="720" scalable="false" maintainAspectRatio="true"><![CDATA[https://i.l.inmobicdn.net/helix/asset/default/5a0f1048542f479295907b47f9c2e91d/transcoded/video.720.mp4]]></MediaFile>
+                     <MediaFile delivery="progressive" type="video/mp4" bitrate="1343" width="854" height="480" scalable="false" maintainAspectRatio="true"><![CDATA[https://i.l.inmobicdn.net/helix/asset/default/5a0f1048542f479295907b47f9c2e91d/transcoded/video.480.mp4]]></MediaFile>
+                     <MediaFile delivery="progressive" type="video/mp4" bitrate="1010" width="640" height="360" scalable="false" maintainAspectRatio="true"><![CDATA[https://i.l.inmobicdn.net/helix/asset/default/5a0f1048542f479295907b47f9c2e91d/transcoded/video.360.mp4]]></MediaFile>
+                  </MediaFiles>
+               </Linear>
+            </Creative>
+         </Creatives>
+      </InLine>
+   </Ad>
 </VAST>
