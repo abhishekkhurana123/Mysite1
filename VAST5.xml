@@ -1,77 +1,38 @@
-VAST version="3.0">
-<Ad id="1igaqi">
+
+<VAST version="2.0">
+<Ad id="1i4lqk">
 <InLine>
-<AdSystem>Innovid Ads</AdSystem>
+<AdSystem>InMobi Studio Ads</AdSystem>
 <AdTitle>
-<![CDATA[ Innovid 10 second VAST end card test ]]>
+<![CDATA[ SAMSUNG - END CARD [DEV] ]]>
 </AdTitle>
-<Impression>
-<![CDATA[
-http://s.innovid.com/1x1.gif?project_hash=1hnmf0&client_id=440&video_id=171743&channel_id=378829&publisher_id=440&placement_tag_id=0&project_state=2&r=1501706863338&placement_hash=1igaqi&action=init
-]]>
-</Impression>
-<Impression>
-<![CDATA[
-http://dts.innovid.com/placement/1igaqi/uuid?cb=09c78ec7-449e-c754-fe38-af8aa50fec3e
-]]>
-</Impression>
 <Creatives>
 <Creative>
 <Linear>
-<Duration>00:00:10</Duration>
-<TrackingEvents>
-<Tracking event="start">
-<![CDATA[
-http://s.innovid.com/1x1.gif?project_hash=1hnmf0&client_id=440&video_id=171743&channel_id=378829&publisher_id=440&placement_tag_id=0&project_state=2&r=1501706863338&placement_hash=1igaqi&action=play
-]]>
-</Tracking>
-<Tracking event="firstQuartile">
-<![CDATA[
-http://s.innovid.com/1x1.gif?project_hash=1hnmf0&client_id=440&video_id=171743&channel_id=378829&publisher_id=440&placement_tag_id=0&project_state=2&r=1501706863338&placement_hash=1igaqi&action=vpoint&event_id=percent&event_value=25
-]]>
-</Tracking>
-<Tracking event="midpoint">
-<![CDATA[
-http://s.innovid.com/1x1.gif?project_hash=1hnmf0&client_id=440&video_id=171743&channel_id=378829&publisher_id=440&placement_tag_id=0&project_state=2&r=1501706863338&placement_hash=1igaqi&action=vpoint&event_id=percent&event_value=50
-]]>
-</Tracking>
-<Tracking event="thirdQuartile">
-<![CDATA[
-http://s.innovid.com/1x1.gif?project_hash=1hnmf0&client_id=440&video_id=171743&channel_id=378829&publisher_id=440&placement_tag_id=0&project_state=2&r=1501706863338&placement_hash=1igaqi&action=vpoint&event_id=percent&event_value=75
-]]>
-</Tracking>
-<Tracking event="complete">
-<![CDATA[
-http://s.innovid.com/1x1.gif?project_hash=1hnmf0&client_id=440&video_id=171743&channel_id=378829&publisher_id=440&placement_tag_id=0&project_state=2&r=1501706863338&placement_hash=1igaqi&action=vpoint&event_id=percent&event_value=100
-]]>
-</Tracking>
-</TrackingEvents>
+<Duration>00:00:30</Duration>
 <VideoClicks>
 <ClickThrough>
-<![CDATA[ ]]>
+<![CDATA[https://www.samsung.com/uk/discover/in_the_home/the-domestics/]]>
 </ClickThrough>
 </VideoClicks>
 <MediaFiles>
-<MediaFile delivery="progressive" width="16" height="9" type="video/mp4" bitrate="800">
-<![CDATA[
-http://static.innovid.com/media/encoded/01_17/52346/2_source_39103_83803.mp4
-]]>
+<MediaFile delivery="progressive" width="16" height="9" type="video/mp4" bitrate="1296">
+<![CDATA[https://i.l.inmobicdn.net/helix/asset/default/194613f26c024d19b6ccf5a23dc0eded/transcoded/video.720.mp4]]>
 </MediaFile>
-<MediaFile delivery="progressive" width="16" height="9" type="video/mp4" bitrate="400">
-<![CDATA[
-http://static.innovid.com/media/encoded/01_17/52347/5_source_39103_83803.mp4
-]]>
+<MediaFile delivery="progressive" width="16" height="9" type="video/mp4" bitrate="1249">
+<![CDATA[https://i.l.inmobicdn.net/helix/asset/default/194613f26c024d19b6ccf5a23dc0eded/transcoded/video.480.mp4]]>
+</MediaFile>
+<MediaFile delivery="progressive" width="16" height="9" type="video/mp4" bitrate="862">
+<![https://i.l.inmobicdn.net/helix/asset/default/194613f26c024d19b6ccf5a23dc0eded/transcoded/video.360.mp4]]>
 </MediaFile>
 </MediaFiles>
 </Linear>
 </Creative>
 <Creative>
 <CompanionAds>
-<Companion id="innovid_companion" width="640" height="360">
-<HTMLResource>
-<![CDATA[
-
-]]>
+<Companion id="studio_companion" width="640" height="360">
+<IFrameResource>
+<![CDATA[https://i.l.inmobicdn.net/studio/load/ajsPrLKRBZyIX3Hx.mraid.w.html]]>
 </IFrameResource>
 </Companion>
 </CompanionAds>
