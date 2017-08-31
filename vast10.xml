@@ -1,14 +1,28 @@
 <VAST version="2.0">
-<Ad id="1i4lqk">
+<Ad id="1i3lqk">
 <InLine>
 <AdSystem>InMobi Studio Ads</AdSystem>
 <AdTitle>
-<![CDATA[ SAMSUNG - END CARD [DEV] ]]>
+<![CDATA[ SAMSUNG- END CARD [DEV] ]]>
 </AdTitle>
+<Impression>
+</Impression>
 <Creatives>
 <Creative>
 <Linear>
 <Duration>00:00:30</Duration>
+<TrackingEvents>
+<Tracking event="start">
+</Tracking>
+<Tracking event="firstQuartile">
+</Tracking>
+<Tracking event="midpoint">
+</Tracking>
+<Tracking event="thirdQuartile">
+</Tracking>
+<Tracking event="complete">
+</Tracking>
+</TrackingEvents>
 <VideoClicks>
 <ClickThrough>
 <![CDATA[https://www.samsung.com/uk/discover/in_the_home/the-domestics/]]>
