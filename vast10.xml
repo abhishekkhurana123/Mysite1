@@ -1,17 +1,40 @@
 <VAST version="2.0">
-<Ad id="1i4lqk">
+<Ad id="1i3lqk">
 <InLine>
 <AdSystem>InMobi Studio Ads</AdSystem>
 <AdTitle>
-<![CDATA[ SAMSUNG - END CARD [DEV] ]]>
+<![CDATA[ Jeep_STE_JEEP FY17 25599 HTML- END CARD [DEV] ]]>
 </AdTitle>
+<Impression>
+<![CDATA[https://s.innovid.com/1x1.gif?project_hash=1hmdj8&client_id=3037&video_id=194793&channel_id=464708&publisher_id=22&placement_tag_id=0&project_state=2&r=1494385871970&placement_hash=1i3lqk&action=init]]>
+</Impression>
+<Impression>
+<![CDATA[https://dts.innovid.com/placement/1i3lqk/uuid?cb=77f5b425-95ff-2ebc-cfbe-7729b0e4bb99]]>
+</Impression>
 <Creatives>
 <Creative>
 <Linear>
-<Duration>00:00:30</Duration>
+<Duration>00:00:15</Duration>
+<TrackingEvents>
+<Tracking event="start">
+<![CDATA[https://s.innovid.com/1x1.gif?project_hash=1hmdj8&client_id=3037&video_id=194793&channel_id=464708&publisher_id=22&placement_tag_id=0&project_state=2&r=1494385871970&placement_hash=1i3lqk&action=play]]>
+</Tracking>
+<Tracking event="firstQuartile">
+<![CDATA[https://s.innovid.com/1x1.gif?project_hash=1hmdj8&client_id=3037&video_id=194793&channel_id=464708&publisher_id=22&placement_tag_id=0&project_state=2&r=1494385871970&placement_hash=1i3lqk&action=vpoint&event_id=percent&event_value=25]]>
+</Tracking>
+<Tracking event="midpoint">
+<![CDATA[https://s.innovid.com/1x1.gif?project_hash=1hmdj8&client_id=3037&video_id=194793&channel_id=464708&publisher_id=22&placement_tag_id=0&project_state=2&r=1494385871970&placement_hash=1i3lqk&action=vpoint&event_id=percent&event_value=50]]>
+</Tracking>
+<Tracking event="thirdQuartile">
+<![CDATA[https://s.innovid.com/1x1.gif?project_hash=1hmdj8&client_id=3037&video_id=194793&channel_id=464708&publisher_id=22&placement_tag_id=0&project_state=2&r=1494385871970&placement_hash=1i3lqk&action=vpoint&event_id=percent&event_value=75]]>
+</Tracking>
+<Tracking event="complete">
+<![CDATA[https://s.innovid.com/1x1.gif?project_hash=1hmdj8&client_id=3037&video_id=194793&channel_id=464708&publisher_id=22&placement_tag_id=0&project_state=2&r=1494385871970&placement_hash=1i3lqk&action=vpoint&event_id=percent&event_value=100]]>
+</Tracking>
+</TrackingEvents>
 <VideoClicks>
 <ClickThrough>
-<![CDATA[https://www.samsung.com/uk/discover/in_the_home/the-domestics/]]>
+<![CDATA[https://www.airoptix.com]]>
 </ClickThrough>
 </VideoClicks>
 <MediaFiles>
