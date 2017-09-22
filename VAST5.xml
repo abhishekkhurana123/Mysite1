@@ -1,42 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <VAST version="2.0">
-<Ad id="1i4lqk">
-<InLine>
-<AdSystem>InMobi Studio Ads</AdSystem>
-<AdTitle>
-<![CDATA[ SAMSUNG - END CARD [DEV] ]]>
-</AdTitle>
-<Creatives>
-<Creative>
-<Linear>
-<Duration>00:00:30</Duration>
-<VideoClicks>
-<ClickThrough>
-<![CDATA[https://www.samsung.com/uk/discover/in_the_home/the-domestics/]]>
-</ClickThrough>
-</VideoClicks>
-<MediaFiles>
-<MediaFile delivery="progressive" width="16" height="9" type="video/mp4" bitrate="1296">
-<![CDATA[https://i.l.inmobicdn.net/helix/asset/default/194613f26c024d19b6ccf5a23dc0eded/transcoded/video.720.mp4]]>
+  <Ad id="preroll-1">
+    <InLine>
+      <AdSystem>2.0</AdSystem>
+      <AdTitle>Cartoon Network</AdTitle>
+      <Impression><![CDATA[https://i.l.inmobicdn.net/studio/asset/ce29fe1a-0a74-4167-82c8-cc115c8263e5.gif]]></Impression>
+      <Creatives>
+        <Creative>
+          <Linear>
+            <Duration>00:00:15</Duration>
+            <TrackingEvents>
+            </TrackingEvents>
+						<AdParameters><![CDATA[{"creativeJson":{"carousel":[{"image":{"assetId":873491685,"url":"https://i.l.inmobicdn.net/helix/asset/default/image/0336fb6f230e4f2cae4656233865ea95/original.jpg","width":434,"height":434,"size":91288}},{"image":{"assetId":1453473522,"url":"https://i.l.inmobicdn.net/helix/asset/default/image/9d47d632a001404eb8d9508e83387361/original.jpg","width":434,"height":434,"size":143774}},{"image":{"assetId":70591578,"url":"https://i.l.inmobicdn.net/helix/asset/default/image/0fd3d2ec6548469597a5c2c81e4179dc/original.jpg","width":434,"height":434,"size":155426}},{"image":{"assetId":1652296262,"url":"https://i.l.inmobicdn.net/helix/asset/default/image/f4e2287de12b49808bd8cd4bb64c3e05/original.jpg","width":434,"height":434,"size":158238}},{"image":{"assetId":1757177434,"url":"https://i.l.inmobicdn.net/helix/asset/default/image/ad02087b01534151b17beef8c246c352/original.jpg","width":434,"height":434,"size":140794}}],"cta":[{"image":{"assetId":61971574,"url":"https://i.l.inmobicdn.net/helix/asset/default/image/40cac3a56b954a709b573f9a55ea4363/original.jpg","width":264,"height":50,"size":11908}}],"background":[{"image":{"assetId":1969827652,"url":"https://i.l.inmobicdn.net/helix/asset/default/image/636836ffc1284d3485b8816fed2386f5/original.jpg","width":568,"height":320,"size":4980}}],"brandLogo":{"image":{"assetId":609355191,"url":"https://i.l.inmobicdn.net/helix/asset/default/image/33854cfbb9604000aaf7eacb23cd1919/original.png","width":417,"height":51,"size":6810}},"demandInfo":{"helixInfo":{"helixCreativePublishIncId":596,"experienceId":1,"experienceType":"LANDSCAPE_VIDEO","templateType":"BRAND_LANDSCAPE","creativeMetadata":{"videoFileName":"SamsungQ_CAN_15sec_WEB_ONLINE.mp4","creativeName":"15 sec. QLED TV"},"helixId":"99d74191319b49709eba7869d91ab266"}},"meta":{"video":{"duration":15,"a177":true,"landscape":true},"carousel":{"a1":true,"square":true},"cta":{},"background":{"a177":true,"landscape":true},"brandLogo":{}},"customJson":{},"video":{"duration":15,"assets":[{"assetId":1590170037,"url":"https://i.l.inmobicdn.net/helix/asset/default/c546c306861b4697a256569fd981d0df/transcoded/video.480.mp4","width":854,"height":480,"size":2415847},{"assetId":900566100,"url":"https://i.l.inmobicdn.net/helix/asset/default/c546c306861b4697a256569fd981d0df/transcoded/video.720.mp4","width":1280,"height":720,"size":2442442},{"assetId":1760035276,"url":"https://i.l.inmobicdn.net/helix/asset/default/c546c306861b4697a256569fd981d0df/transcoded/video.360.mp4","width":640,"height":360,"size":2270880}],"original":{"assetId":844448721,"url":"https://i.l.inmobicdn.net/helix/asset/default/video/c546c306861b4697a256569fd981d0df/original.mp4","width":1920,"height":1080,"size":26831932}}}}]]></AdParameters>
+            <VideoClicks>
+              <ClickThrough><![CDATA[http://www.inmobi.com]]></ClickThrough>
+            </VideoClicks>
+            <MediaFiles>
+                <MediaFile delivery="progressive" type="video/mp4" bitrate="1354" width="1280" height="720" scalable="false" maintainAspectRatio="true"><![CDATA[https://i.l.inmobicdn.net/helix/asset/default/c546c306861b4697a256569fd981d0df/transcoded/video.720.mp4]]>
 </MediaFile>
-<MediaFile delivery="progressive" width="16" height="9" type="video/mp4" bitrate="1249">
-<![CDATA[https://i.l.inmobicdn.net/helix/asset/default/194613f26c024d19b6ccf5a23dc0eded/transcoded/video.480.mp4]]>
+                <MediaFile delivery="progressive" type="video/mp4" bitrate="1343" width="854" height="480" scalable="false" maintainAspectRatio="true"><![CDATA[https://i.l.inmobicdn.net/helix/asset/default/c546c306861b4697a256569fd981d0df/transcoded/video.720.mp4]]>
 </MediaFile>
-<MediaFile delivery="progressive" width="16" height="9" type="video/mp4" bitrate="862">
-<![https://i.l.inmobicdn.net/helix/asset/default/194613f26c024d19b6ccf5a23dc0eded/transcoded/video.360.mp4]]>
+                <MediaFile delivery="progressive" type="video/mp4" bitrate="1010" width="640" height="360" scalable="false" maintainAspectRatio="true"><![CDATA[https://i.l.inmobicdn.net/helix/asset/default/c546c306861b4697a256569fd981d0df/transcoded/video.720.mp4]]>
 </MediaFile>
-</MediaFiles>
-</Linear>
-</Creative>
-<Creative>
-<CompanionAds>
-<Companion id="studio_companion" width="640" height="360">
-<IFrameResource>
-<![CDATA[https://i.l.inmobicdn.net/studio/load/ajsPrLKRBZyIX3Hx.mraid.w.html]]>
-</IFrameResource>
-</Companion>
-</CompanionAds>
-</Creative>
-</Creatives>
-</InLine>
-</Ad>
+            </MediaFiles>
+          </Linear>
+				</Creative>
+      </Creatives>
+    </InLine>
+  </Ad>
 </VAST>
