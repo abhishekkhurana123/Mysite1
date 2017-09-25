@@ -16,11 +16,11 @@
               <ClickThrough><![CDATA[http://www.inmobi.com]]></ClickThrough>
             </VideoClicks>
             <MediaFiles>
-                <MediaFile delivery="progressive" type="video/mp4" bitrate="1354" width="1280" height="720" scalable="false" maintainAspectRatio="true"><![CDATA[https://i.l.inmobicdn.net/helix/asset/default/bfd8a94cc68a4caea7cc273da4e3a5e2/transcoded/video.720.mp4]]>
+                <MediaFile delivery="progressive" type="video/mp4" bitrate="1354" width="1280" height="720" scalable="false" maintainAspectRatio="true"><![CDATA[https://i.l.inmobicdn.net/helix/asset/default/4de615545355472eaf87a520fa73b5db/transcoded/video.720.mp4]]>
 </MediaFile>
-                <MediaFile delivery="progressive" type="video/mp4" bitrate="1343" width="854" height="480" scalable="false" maintainAspectRatio="true"><![CDATA[https://i.l.inmobicdn.net/helix/asset/default/bfd8a94cc68a4caea7cc273da4e3a5e2/transcoded/video.720.mp4]]>
+                <MediaFile delivery="progressive" type="video/mp4" bitrate="1343" width="854" height="480" scalable="false" maintainAspectRatio="true"><![CDATA[https://i.l.inmobicdn.net/helix/asset/default/4de615545355472eaf87a520fa73b5db/transcoded/video.720.mp4]]>
 </MediaFile>
-                <MediaFile delivery="progressive" type="video/mp4" bitrate="1010" width="640" height="360" scalable="false" maintainAspectRatio="true"><![CDATA[https://i.l.inmobicdn.net/helix/asset/default/bfd8a94cc68a4caea7cc273da4e3a5e2/transcoded/video.720.mp4]]>
+                <MediaFile delivery="progressive" type="video/mp4" bitrate="1010" width="640" height="360" scalable="false" maintainAspectRatio="true"><![CDATA[https://i.l.inmobicdn.net/helix/asset/default/4de615545355472eaf87a520fa73b5db/transcoded/video.720.mp4]]>
 </MediaFile>
             </MediaFiles>
           </Linear>
