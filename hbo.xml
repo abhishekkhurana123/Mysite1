@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VAST version="2.0">
+  <Ad id="preroll-1">
+    <InLine>
+      <AdSystem>2.0</AdSystem>
+      <AdTitle>Cartoon Network</AdTitle>
+      <Impression><![CDATA[https://i.l.inmobicdn.net/studio/asset/ce29fe1a-0a74-4167-82c8-cc115c8263e5.gif]]></Impression>
+      <Creatives>
+        <Creative>
+          <Linear>
+            <Duration>00:00:15</Duration>
+            <TrackingEvents>
+            </TrackingEvents>
+						<AdParameters><![CDATA[{"creativeJson":{"carousel":[{"image":{"assetId":197742115,"url":"https://i.l.inmobicdn.net/helix/asset/default/image/20e8d6eb8c8b4402a12e99bff42067d5/original.jpg","width":960,"height":1440,"size":363637}},{"image":{"assetId":132860024,"url":"https://i.l.inmobicdn.net/helix/asset/default/image/17ec20878c2048bfb24eca4e5be95ffc/original.jpg","width":960,"height":1440,"size":411738}},{"image":{"assetId":185332132,"url":"https://i.l.inmobicdn.net/helix/asset/default/image/59c60f09c4c9477fb2f18d4289639d77/original.jpg","width":960,"height":1440,"size":309210}},{"image":{"assetId":246866986,"url":"https://i.l.inmobicdn.net/helix/asset/default/image/47694e23cdb74be79261fa028d18891a/original.jpg","width":960,"height":1440,"size":144553}},{"image":{"assetId":807934308,"url":"https://i.l.inmobicdn.net/helix/asset/default/image/4a8dbe8d413e495fae38b6b8c154cf38/original.jpg","width":960,"height":1440,"size":351309}}],"cta":[{"image":{"assetId":147317916,"url":"https://i.l.inmobicdn.net/helix/asset/default/image/b926eab1e882409f866cde3472dc9542/original.png","width":556,"height":85,"size":6479}}],"background":[{"image":{"assetId":1340547921,"url":"https://i.l.inmobicdn.net/helix/asset/default/image/bb0595f5556845b58c41e5b958859446/original.png","width":1136,"height":640,"size":17926}}],"brandLogo":{"image":{"assetId":356577983,"url":"https://i.l.inmobicdn.net/helix/asset/default/image/3183d7e08c6f46fd9df457847899a8cb/original.png","width":640,"height":149,"size":26793}},"demandInfo":{"helixInfo":{"helixCreativePublishIncId":597,"experienceId":1,"experienceType":"LANDSCAPE_VIDEO","templateType":"BRAND_LANDSCAPE","creativeMetadata":{"videoFileName":"HBO-What-Connects-Us-WIDE-TRIMMED-HB.mp4","creativeName":"test"},"helixId":"eea86f64f6e14cbe96d51922df613ddc"}},"meta":{"video":{"duration":25,"a177":true,"landscape":true},"carousel":{"aspectratiois_2by3":true,"a067":true},"cta":{},"background":{"a177":true,"landscape":true},"brandLogo":{}},"customJson":{},"video":{"duration":25,"assets":[{"assetId":1481688726,"url":"https://i.l.inmobicdn.net/helix/asset/default/bfd8a94cc68a4caea7cc273da4e3a5e2/transcoded/video.360.mp4","width":640,"height":360,"size":2353676},{"assetId":1953809394,"url":"https://i.l.inmobicdn.net/helix/asset/default/bfd8a94cc68a4caea7cc273da4e3a5e2/transcoded/video.720.mp4","width":1280,"height":720,"size":3708961},{"assetId":536926743,"url":"https://i.l.inmobicdn.net/helix/asset/default/bfd8a94cc68a4caea7cc273da4e3a5e2/transcoded/video.480.mp4","width":854,"height":480,"size":2862847}],"original":{"assetId":568557235,"url":"https://i.l.inmobicdn.net/helix/asset/default/video/bfd8a94cc68a4caea7cc273da4e3a5e2/original.mp4","width":1280,"height":720,"size":4712261}}}}]]></AdParameters>
+            <VideoClicks>
+              <ClickThrough><![CDATA[http://www.inmobi.com]]></ClickThrough>
+            </VideoClicks>
+            <MediaFiles>
+                <MediaFile delivery="progressive" type="video/mp4" bitrate="1354" width="1280" height="720" scalable="false" maintainAspectRatio="true"><![CDATA[https://i.l.inmobicdn.net/helix/asset/default/bfd8a94cc68a4caea7cc273da4e3a5e2/transcoded/video.720.mp4]]>
+</MediaFile>
+                <MediaFile delivery="progressive" type="video/mp4" bitrate="1343" width="854" height="480" scalable="false" maintainAspectRatio="true"><![CDATA[https://i.l.inmobicdn.net/helix/asset/default/bfd8a94cc68a4caea7cc273da4e3a5e2/transcoded/video.720.mp4]]>
+</MediaFile>
+                <MediaFile delivery="progressive" type="video/mp4" bitrate="1010" width="640" height="360" scalable="false" maintainAspectRatio="true"><![CDATA[https://i.l.inmobicdn.net/helix/asset/default/bfd8a94cc68a4caea7cc273da4e3a5e2/transcoded/video.720.mp4]]>
+</MediaFile>
+            </MediaFiles>
+          </Linear>
+				</Creative>
+      </Creatives>
+    </InLine>
+  </Ad>
+</VAST>
