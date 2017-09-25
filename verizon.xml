@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VAST version="2.0">
+  <Ad id="preroll-1">
+    <InLine>
+      <AdSystem>2.0</AdSystem>
+      <AdTitle>Cartoon Network</AdTitle>
+      <Impression><![CDATA[https://i.l.inmobicdn.net/studio/asset/ce29fe1a-0a74-4167-82c8-cc115c8263e5.gif]]></Impression>
+      <Creatives>
+        <Creative>
+          <Linear>
+            <Duration>00:00:15</Duration>
+            <TrackingEvents>
+            </TrackingEvents>
+						<AdParameters><![CDATA[{"creativeJson":{"carousel":[{"image":{"assetId":587986693,"url":"https://i.l.inmobicdn.net/helix/asset/default/image/fdb3dfd3c0994b519ec975d4e8546523/original.jpg","width":300,"height":450,"size":74653}},{"image":{"assetId":1447767309,"url":"https://i.l.inmobicdn.net/helix/asset/default/image/e76d343664354547bc5fad05f84da6e3/original.jpg","width":300,"height":450,"size":70404}},{"image":{"assetId":1829990273,"url":"https://i.l.inmobicdn.net/helix/asset/default/image/d7b4adf905df40bf98bba6f9b4130d26/original.jpg","width":300,"height":450,"size":78244}},{"image":{"assetId":792293211,"url":"https://i.l.inmobicdn.net/helix/asset/default/image/cdb108c877cd4b0f81425a8765613a85/original.jpg","width":300,"height":450,"size":93191}},{"image":{"assetId":1383255584,"url":"https://i.l.inmobicdn.net/helix/asset/default/image/a8c27a08c91c4572b259019f2e2139db/original.jpg","width":300,"height":450,"size":34857}}],"cta":[{"image":{"assetId":1098755748,"url":"https://i.l.inmobicdn.net/helix/asset/default/image/11322874700e4e1da1c8bcc6241ca877/original.jpg","width":320,"height":50,"size":10840}}],"background":[{"image":{"assetId":1659800593,"url":"https://i.l.inmobicdn.net/helix/asset/default/image/f31a5a3000f047098d5a1a779f1d5f4b/original.jpg","width":568,"height":320,"size":4980}}],"brandLogo":{"image":{"assetId":2084623319,"url":"https://i.l.inmobicdn.net/helix/asset/default/image/20e35f8bd8ba4a4c99fe44d05fab2d4b/original.png","width":800,"height":800,"size":14562}},"demandInfo":{"helixInfo":{"helixCreativePublishIncId":599,"experienceId":1,"experienceType":"LANDSCAPE_VIDEO","templateType":"BRAND_LANDSCAPE","creativeMetadata":{"videoFileName":"2_source_41377_107831.mp4","creativeName":"BMW"},"helixId":"0d32c78acbed4a1487bc2f706e3a2558"}},"meta":{"video":{"duration":15,"a177":true,"landscape":true},"carousel":{"a067":true},"cta":{"a64":true},"background":{"a177":true,"landscape":true},"brandLogo":{"a1":true,"square":true}},"customJson":{},"video":{"duration":15,"assets":[{"assetId":1541565046,"url":"https://i.l.inmobicdn.net/helix/asset/default/4de615545355472eaf87a520fa73b5db/transcoded/video.480.mp4","width":854,"height":480,"size":2158656},{"assetId":949171091,"url":"https://i.l.inmobicdn.net/helix/asset/default/4de615545355472eaf87a520fa73b5db/transcoded/video.720.mp4","width":1280,"height":720,"size":2415340},{"assetId":1808640267,"url":"https://i.l.inmobicdn.net/helix/asset/default/4de615545355472eaf87a520fa73b5db/transcoded/video.360.mp4","width":640,"height":360,"size":1477953}],"original":{"assetId":39455214,"url":"https://i.l.inmobicdn.net/helix/asset/default/video/4de615545355472eaf87a520fa73b5db/original.mp4","width":640,"height":360,"size":1868572}}}}]]></AdParameters>
+            <VideoClicks>
+              <ClickThrough><![CDATA[http://www.inmobi.com]]></ClickThrough>
+            </VideoClicks>
+            <MediaFiles>
+                <MediaFile delivery="progressive" type="video/mp4" bitrate="1354" width="1280" height="720" scalable="false" maintainAspectRatio="true"><![CDATA[https://i.l.inmobicdn.net/helix/asset/default/bfd8a94cc68a4caea7cc273da4e3a5e2/transcoded/video.720.mp4]]>
+</MediaFile>
+                <MediaFile delivery="progressive" type="video/mp4" bitrate="1343" width="854" height="480" scalable="false" maintainAspectRatio="true"><![CDATA[https://i.l.inmobicdn.net/helix/asset/default/bfd8a94cc68a4caea7cc273da4e3a5e2/transcoded/video.720.mp4]]>
+</MediaFile>
+                <MediaFile delivery="progressive" type="video/mp4" bitrate="1010" width="640" height="360" scalable="false" maintainAspectRatio="true"><![CDATA[https://i.l.inmobicdn.net/helix/asset/default/bfd8a94cc68a4caea7cc273da4e3a5e2/transcoded/video.720.mp4]]>
+</MediaFile>
+            </MediaFiles>
+          </Linear>
+				</Creative>
+      </Creatives>
+    </InLine>
+  </Ad>
+</VAST>
