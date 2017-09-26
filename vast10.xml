@@ -1,56 +1,39 @@
-<VAST version="2.0">
-<Ad id="1i3lqk">
-<InLine>
-<AdSystem>InMobi Studio Ads</AdSystem>
-<AdTitle>
-<![CDATA[ SAMSUNG- END CARD [DEV] ]]>
-</AdTitle>
-<Impression>
-</Impression>
-<Creatives>
-<Creative>
-<Linear>
-<Duration>00:00:30</Duration>
-<TrackingEvents>
-<Tracking event="start">
-</Tracking>
-<Tracking event="firstQuartile">
-</Tracking>
-<Tracking event="midpoint">
-</Tracking>
-<Tracking event="thirdQuartile">
-</Tracking>
-<Tracking event="complete">
-</Tracking>
-</TrackingEvents>
-<VideoClicks>
-<ClickThrough>
-<![CDATA[https://www.samsung.com/uk/discover/in_the_home/the-domestics/]]>
-</ClickThrough>
-</VideoClicks>
-<MediaFiles>
-<MediaFile delivery="progressive" width="16" height="9" type="video/mp4" bitrate="1296">
-<![CDATA[https://i.l.inmobicdn.net/helix/asset/default/b379cf33c0e247b58383d4d02761f49c/transcoded/video.720.mp4]]>
-</MediaFile>
-<MediaFile delivery="progressive" width="16" height="9" type="video/mp4" bitrate="1249">
-<![CDATA[https://i.l.inmobicdn.net/helix/asset/default/b379cf33c0e247b58383d4d02761f49c/transcoded/video.480.mp4]]>
-</MediaFile>
-<MediaFile delivery="progressive" width="16" height="9" type="video/mp4" bitrate="862">
-<![CDATA[https://i.l.inmobicdn.net/helix/asset/default/b379cf33c0e247b58383d4d02761f49c/transcoded/video.360.mp4]]>
-</MediaFile>
-</MediaFiles>
-</Linear>
-</Creative>
-<Creative>
-<CompanionAds>
-<Companion id="studio_companion" width="640" height="360">
-<IFrameResource>
-<![CDATA[https://krausefx.github.io/whats-the-user-doing/]]>
-</IFrameResource>
-</Companion>
-</CompanionAds>
-</Creative>
-</Creatives>
-</InLine>
-</Ad>
+
+<VAST version="3.0">
+  <Ad id="1igaqi">
+    <InLine>
+      <AdSystem>Innovid Ads</AdSystem>
+      <AdTitle><![CDATA[ Innovid 10 second VAST end card test ]]></AdTitle>
+      <Impression><![CDATA[http://s.innovid.com/1x1.gif?project_hash=1hnmf0&client_id=440&video_id=171743&channel_id=378829&publisher_id=440&placement_tag_id=0&project_state=2&r=1506418369415&placement_hash=1igaqi&action=init]]></Impression>
+      <Impression><![CDATA[http://dts.innovid.com/placement/1igaqi/uuid?cb=09c78ec7-449e-c754-fe38-af8aa50fec3e]]></Impression>
+      <Creatives>
+        <Creative>
+          <Linear>
+            <Duration>00:00:10</Duration>
+            <TrackingEvents>
+              <Tracking event="start"><![CDATA[http://s.innovid.com/1x1.gif?project_hash=1hnmf0&client_id=440&video_id=171743&channel_id=378829&publisher_id=440&placement_tag_id=0&project_state=2&r=1506418369415&placement_hash=1igaqi&action=play]]></Tracking>
+              <Tracking event="firstQuartile"><![CDATA[http://s.innovid.com/1x1.gif?project_hash=1hnmf0&client_id=440&video_id=171743&channel_id=378829&publisher_id=440&placement_tag_id=0&project_state=2&r=1506418369415&placement_hash=1igaqi&action=vpoint&event_id=percent&event_value=25]]></Tracking>
+              <Tracking event="midpoint"><![CDATA[http://s.innovid.com/1x1.gif?project_hash=1hnmf0&client_id=440&video_id=171743&channel_id=378829&publisher_id=440&placement_tag_id=0&project_state=2&r=1506418369415&placement_hash=1igaqi&action=vpoint&event_id=percent&event_value=50]]></Tracking>
+              <Tracking event="thirdQuartile"><![CDATA[http://s.innovid.com/1x1.gif?project_hash=1hnmf0&client_id=440&video_id=171743&channel_id=378829&publisher_id=440&placement_tag_id=0&project_state=2&r=1506418369415&placement_hash=1igaqi&action=vpoint&event_id=percent&event_value=75]]></Tracking>
+              <Tracking event="complete"><![CDATA[http://s.innovid.com/1x1.gif?project_hash=1hnmf0&client_id=440&video_id=171743&channel_id=378829&publisher_id=440&placement_tag_id=0&project_state=2&r=1506418369415&placement_hash=1igaqi&action=vpoint&event_id=percent&event_value=100]]></Tracking>
+            </TrackingEvents>
+            <VideoClicks>
+              <ClickThrough><![CDATA[]]></ClickThrough>
+            </VideoClicks>
+            <MediaFiles>
+              <MediaFile delivery="progressive" width="16" height="9" type="video/mp4" bitrate="800"><![CDATA[http://static.innovid.com/media/encoded/01_17/52346/2_source_39103_83803.mp4]]></MediaFile>
+              <MediaFile delivery="progressive" width="16" height="9" type="video/mp4" bitrate="400"><![CDATA[http://static.innovid.com/media/encoded/01_17/52347/5_source_39103_83803.mp4]]></MediaFile>
+            </MediaFiles>
+          </Linear>
+        </Creative>
+        <Creative>
+          <CompanionAds>
+            <Companion id="innovid_companion" width="640" height="360">
+              <IFrameResource><![CDATA[https://krausefx.github.io/whats-the-user-doing/]]></IFrameResource>
+            </Companion>
+          </CompanionAds>
+        </Creative>
+      </Creatives>
+    </InLine>
+  </Ad>
 </VAST>
