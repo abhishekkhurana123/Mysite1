@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <VAST version="2.0">
    <Ad id="preroll">
-      <inLine>
+      <InLine>
          <AdSystem>2.0</AdSystem>
          <Impression><![CDATA[https://i.l.inmobicdn.net/studio/asset/ce29fe1a-0a74-4167-82c8-cc115c8263e5.gif]]></Impression>
          <AdTitle>VAST2.0 Linear</AdTitle>
