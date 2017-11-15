@@ -29,7 +29,8 @@
         <Creative>
           <CompanionAds>
             <Companion id="innovid_companion" width="640" height="360">
-              <IFrameResource><![CDATA[https://krausefx.github.io/whats-the-user-doing/]]></IFrameResource>
+              <StaticResource creativeType="image/jpeg">https://i.l.inmobicdn.net/helix/asset/default/image/6785ac7e6c9944c39c5cfd6d7b5632ac/original.jpg
+</StaticResource>
             </Companion>
           </CompanionAds>
         </Creative>
