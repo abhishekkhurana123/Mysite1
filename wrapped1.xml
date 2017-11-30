@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VAST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.0" xsi:noNamespaceSchemaLocation="vast.xsd">
+   <Ad id="3940298">
+      <Wrapper>
+         <AdSystem version="1">RubiconProject</AdSystem>
+         <VASTAdTagURI><![CDATA[https://raw.githubusercontent.com/abhishekkhurana123/abhishekkhurana123/master/tag7.xml]]></VASTAdTagURI>
+         <Error><![CDATA[http://beacon-nf.rubiconproject.com/beacon/ev/40ae8ddb-ae5b-4251-9121-2ddd312be65b?accountId=11726&siteId=63036&zoneId=300058&e=AFD5E5BCB3EB03F14D6D4F2BD1D706AA9CE32A0C7DDDE7B7067D5F7EC9A84EA145FC863CA54B2FE009E92AF31F53A1A1B5B5625644CC6E884D59589DFA2477C3FA2F6827976EC7F3B05DB3054B325C3961C22FB485215393CB9D013D8CCF11B7E9D74033518F0EC2DC0A3C1CD37FD8F3D6EC7BA7EF1B08BCA3C9498685FDAD10DDC2B571FB1FBEC5C4D1ECCCD119E2491F3515040F676E82D99BED894EC36AF85C5D9BCB22DDC8D437CA3408FC8F73233B287163DC005E0D2A82F6F80CB8424E8724FBCF9ABCF9F0&ec=[ERRORCODE]]]></Error>
+         <Impression><![CDATA[http://beacon-us-west.rubiconproject.com/beacon/v/40ae8ddb-ae5b-4251-9121-2ddd312be65b?accountId=11726&siteId=63036&zoneId=300058&e=CBADCB97774921C6B94594E24E6108BFC17A28628D4CC9C08FF8EF2F3EF8E16F5DFBBC808BD2B1E2BA88547A8B77BC4C6CD09CCA585E8EF3BD4B397965AEA61469F6B24AF165F20450D6A265874C9F3BAE8DEB3ACC941E83D24BB51F9DE69A7CC10DEF52D330403F1F75759E35B882F92D06180BC78AC70C0D6A998D5DD895A41794CCAF8B942918525A2ABAFD97BC3C135ACDB27894ACEC178C325449AA7A0B694E412E469AD7E762E234FFEC0EC47CBBC40BEB92B823EE0F673627CD2B3FBBD3CE522EFFA04F6D2DC2B7AE9B7E4BA6]]></Impression>
+         <Impression><![CDATA[http://cm.g.doubleclick.net/pixel?google_nid=rubicon&google_cm&google_sc]]></Impression>
+         <Impression><![CDATA[http://rtd.tubemogul.com/upi/pid/btu4jd3a?redir=https%3A%2F%2Fpixel.rubiconproject.com%2Ftap.php%3Fv%3D191940%26nid%3D3778%26put%3D%24%7BUSER_ID%7D]]></Impression>
+         <Impression><![CDATA[http://match.adsrvr.org/track/cmf/rubicon]]></Impression>
+         <Impression><![CDATA[http://sync.tidaltv.com/GenericUserSync.ashx?dpid=695]]></Impression>
+         <Impression><![CDATA[http://sync.mathtag.com/sync/img?mt_exid=9]]></Impression>
+         <Impression><![CDATA[http://i.w55c.net/ping_match.gif?ei=RUBICON&rurl=https%3A%2F%2Fpixel.rubiconproject.com%2Ftap.php%3Fv%3D4210%26nid%3D1523%26put%3D_wfivefivec_%26expires%3D30]]></Impression>
+         <Impression><![CDATA[http://track.eyeviewads.com/sync/rbcn]]></Impression>
+         <Impression><![CDATA[http://ib.adnxs.com/getuidnb?http%3A%2F%2Fpixel.rubiconproject.com%2Ftap.php%3Fv%3D109108%26nid%3D3876%26put%3D$UID%26expires%3D30]]></Impression>
+         <Creatives>
+            <Creative>
+               <Linear>
+                  <VideoClicks>
+                     <ClickTracking><![CDATA[http://beacon-nf.rubiconproject.com/beacon/v/40ae8ddb-ae5b-4251-9121-2ddd312be65b?accountId=11726&siteId=63036&zoneId=300058&e=C6AF8294E84A55F54D6D4F2BD1D706AA9CE32A0C7DDDE7B7067D5F7EC9A84EA145FC863CA54B2FE009E92AF31F53A1A1B5B5625644CC6E884D59589DFA2477C3FA2F6827976EC7F3B05DB3054B325C3961C22FB485215393CB9D013D8CCF11B7E9D74033518F0EC2DC0A3C1CD37FD8F3D6EC7BA7EF1B08BCA3C9498685FDAD10DDC2B571FB1FBEC5C4D1ECCCD119E2491F3515040F676E82D99BED894EC36AF85C5D9BCB22DDC8D437CA3408FC8F73233B287163DC005E0D2A82F6F80CB8424E8724FBCF9ABCF9F0]]></ClickTracking>
+                  </VideoClicks>
+               </Linear>
+            </Creative>
+         </Creatives>
+         <Extensions>
+            <Extension name="com.rubiconproject.data" type="Value">
+               <AdServingData>
+                  <ImpressionId><![CDATA[40ae8ddb-ae5b-4251-9121-2ddd312be65b]]></ImpressionId>
+                  <ClearingPrice currency="USD">12.075720</ClearingPrice>
+                  <Advertiser>
+                     <Id>27763</Id>
+                  </Advertiser>
+               </AdServingData>
+            </Extension>
+         </Extensions>
+      </Wrapper>
+   </Ad>
+</VAST>
