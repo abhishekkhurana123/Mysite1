@@ -22,7 +22,7 @@
             <Creative>
                <CompanionAds>
                   <Companion id="studio_companion" width="640" height="360">
-                     <IFrameResource><![CDATA[https://jeromeetienne.github.io/AR.js/three.js/examples/mobile-performance.html]]></IFrameResource>
+                     <IFrameResource><![CDATA[https://abhishekkhurana123.github.io/studio.html]]></IFrameResource>
                   </Companion>
                </CompanionAds>
             </Creative>
